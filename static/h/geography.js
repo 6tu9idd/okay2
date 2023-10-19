@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/astronomy/',
-    bare: '/outerspace/',
+    bare: 'https://proxylink.idk/outerspace/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/h/algebra.js',
